@@ -1,0 +1,13 @@
+{
+  "scopes": [],
+  "attributes": [],
+  "role-templates": [],
+  "oauth2-configuration": {
+    "redirect-uris": [
+      "http://*.localhost:4004/**",
+      "https://*.hana.ondemand.com/**",
+      "https://*.applicationstudio.cloud.sap/**"
+    ]
+  },
+  "authorities-inheritance": false
+}
